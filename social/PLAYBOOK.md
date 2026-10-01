@@ -1,79 +1,63 @@
 # Project Scripture: Social Playbook (IG + FB)
 
-## The angle
-Most faith accounts post soft pastel verse graphics, so a feed full of them blurs together.
-Project Scripture's logo is a film projector, so the brand should look like **cinema**:
-letterboxed stills, subtitle-style verses, title cards, film leaders, projector light.
-Each post should look like a frame from a movie someone paused, not like a church bulletin.
-The movie look is the pattern interrupt.
+## What we're selling
+Project Scripture is worship presentation software. It puts scripture, songs and slides on the
+projector, livestream and stage screens. It has a Listen mode that hears the preacher, video
+backdrops styled per content type, a Ready Check, and built-in help (press `?`).
+It runs on Windows, macOS and Linux and has a free plan.
 
-## What the algorithms reward right now (2026)
-| Signal | Platform | So we... |
-|---|---|---|
-| DM shares (~3–4× a like) | IG | End posts with "send this to…" prompts and write lines people want to forward |
-| Saves (~2× a like) | IG | Make carousels people come back to (lists, rankings, study notes) |
-| Dwell time / swipes | IG + FB | Use 5–10 slide carousels; IG re-serves them from slide 2 |
-| Original content (~2.3× reach) | FB | Make everything in-house; no reposted clips or stolen verse images |
-| Reels > carousels > single images | FB | Turn every static concept into a 7–15s Reel as well |
+**Who we're talking to:** the volunteer in the media booth, the church tech director, and the pastor
+who signs off on the software.
+
+**What they struggle with:** the pastor calls a verse and you have seconds to get it up. Text is
+unreadable over busy videos. Sunday-morning tech panic. New volunteers who don't know the software.
+
+## Format: carousels only
+Carousels get the most saves and shares on Instagram, and Facebook rewards them over single images.
+Every post is a 7-slide carousel that uses Canva photos (sanctuaries, media booths, screens,
+congregations), darkened so the text reads.
+
+**Slide pattern:**
+1. **Hook:** a problem the viewer has felt, stated in their own words. A photo of the moment.
+2–6. **One idea per slide**, under 30 words, numbered so people keep swiping.
+7. **CTA:** ask for one save, one send ("send this to your media team") and one link-in-bio click.
 
 ## Design rules
-- **Size:** 1080×1440 (3:4, matches IG's current grid) or 1080×1350 (4:5) for feed. 1080×1920 for Stories/Reels. Keep key content in the center square (the grid crops to 3:4/1:1).
-- **One idea per frame.** Under 30 words per slide.
-- **Palette:** Black `#0B0B0B` · Cream `#EDE3D3` · Slate `#1E2A36` · Red accent `#D9534F` (use sparingly, like a REC light).
-- **Type:** Bold geometric caps for headlines (matches "PROJECT"), thin spaced caps for labels (matches "SCRIPTURE").
-- **Every post carries the small wordmark**, so a forwarded image still leads back to you.
+- 1080×1440 (3:4). Keep key text inside the center square.
+- Photos darkened with a black overlay. Cream text `#EDE3D3`, red accent `#D9534F` for numbers, slate `#1E2A36`.
+- Bold condensed caps for headlines. Small "PROJECT SCRIPTURE" wordmark and a slide counter on every slide.
+- **Swap in real app screenshots** wherever a slide talks about a feature. A real product shot beats a stock photo.
 
-## Batch 1: posts and captions
+## Batch 2: carousels and captions
+Canva folder: https://www.canva.com/folder/FAHWxkvDs04
 
-All in Canva folder **Project Scripture — Social Posts**: https://www.canva.com/folder/FAHWxtxcuJQ
+### A. "You have 3 seconds" (the scramble → Listen)
+> Pastor goes off-script. Verse request. Three seconds. 😅
+> Every media volunteer has lived this. Project Scripture listens to the preacher, so you're not scrambling.
+> Send this to your media team. Free to start: link in bio.
+> #ChurchMedia #ChurchTech #WorshipTech #MediaMinistry #ChurchProduction #ProjectScripture
 
-| # | Post | Format | Canva |
-|---|---|---|---|
-| 1 | Let There Be Light | IG feed 3:4 | https://canva.link/yt4y7npdj51hvzk |
-| 2 | 5 Bible Scenes Hollywood Couldn't Handle (7 slides) | IG/FB carousel 3:4 | https://canva.link/f7fw5ad20d4ucb4 |
-| 3 | Some Stories Were Meant to Be Seen | IG/FB feed 3:4 | https://canva.link/2dwxq10t8d71c3c |
-| 4 | You Pick the Next Film | IG/FB feed 3:4 | https://canva.link/vp60zlpkpau7chd |
-| 5 | Be Strong and Courageous | FB landscape | https://canva.link/t3rarz2n4gfv6un |
-| 6 | Countdown "3" | Story 9:16 | https://canva.link/g9s05a7qvi3bdrx |
+### B. "Why the back row can't read your verses" (5 readability fixes)
+> If the back row is squinting, the verse isn't landing.
+> 5 fixes you can make before Sunday. Save this. 📌
+> #ChurchMedia #ChurchSlides #WorshipLyrics #ChurchTech #ProjectScripture
 
-### 1. "Let There Be Light": verse as a movie still (IG feed)
-> Paused at the best part. 🎬
-> "And God said, Let there be light: and there was light." Genesis 1:3
-> Send this to someone who needs light today.
-> #ProjectScripture #Genesis #BibleVerse #ChristianFilm #Faith
+### C. "New software this Sunday? Do these 5 things first" (setup checklist)
+> Saturday-night checklist for whoever runs the screens. ✅
+> Save it now so you have it this weekend.
+> #ChurchTech #MediaTeam #SundayPrep #ChurchVolunteers #ProjectScripture
 
-### 2. "5 Bible Scenes Hollywood Couldn't Handle": carousel (IG + FB)
-> No CGI budget could do these justice. 👀
-> Swipe through and tell us which one we should bring to the screen first. Comment the number.
-> Save this for your next movie night debate.
-> #ProjectScripture #BibleStories #ChristianMovies #Exodus #Daniel
+## Next carousel ideas
+- **Release notes as carousels:** "What's new in 0.7.x": backdrops, new lettering, help with `?`. Every release = one post.
+- **"Things only church media people understand"** (relatable → shares).
+- **Before/after:** an unreadable verse over a busy video vs the same verse with a darkened backdrop and a soft band.
+- **Volunteer training:** "Teach a new volunteer Project Scripture in 5 slides."
+- **Myth-busting:** "You don't need internet on Sunday." (confirm with the team first)
 
-### 3. "Some Stories Were Meant to Be Seen": teaser (IG + FB)
-> For thousands of years, these stories were read.
-> Soon, they'll be seen.
-> Turn on post notifications. 🔔
-> #ProjectScripture #ComingSoon #FaithFilm
+## Cadence
+- 3 carousels a week. Rotate problem → tips → product/release.
+- Post Tuesday–Thursday, while media teams are planning Sunday. Reshare to Stories on Saturday.
+- Reply to every comment in the first hour.
 
-### 4. "You Pick the Next Film": comment driver (IG + FB)
-> You're the producer now. 🎥
-> 1, 2, 3 or 4: drop your pick below. Most votes wins.
-> #ProjectScripture #BibleStories #YouDecide
-
-### 5. "Be Strong and Courageous": shareable title card (FB)
-> Someone on your feed needs this today. Share it. 🤍
-> "Be strong and of a good courage; be not afraid… for the LORD thy God is with thee whithersoever thou goest." Joshua 1:9
-> #ProjectScripture #Joshua19 #Faith
-
-### 6. Countdown story: film leader "3" (IG + FB Stories)
-- Add the native **Countdown sticker** in the empty lower area so people can set a reminder.
-- Make "2" and "1" versions for the next two days (duplicate the design and change the number).
-
-## Posting cadence (starter)
-- **Feed:** 4 posts a week. Rotate: verse still → carousel → engagement post → teaser/BTS.
-- **Stories:** daily (polls, countdowns, reshare your own feed posts).
-- **Reels:** at least 2 a week. Animate the stills (slow push-in, projector flicker, subtitle typing on).
-- Reply to every comment in the first hour. Replies feed the ranking signals.
-- Cross-post carousels to FB; FB rewards them more than single images.
-
-## Measure (after 2 weeks)
-Track **shares + saves per 1,000 reach** per post, not likes. Make more of whichever concept wins.
+## Measure
+Track shares + saves per 1,000 reach, and link-in-bio clicks → downloads. Make more of whatever wins.
