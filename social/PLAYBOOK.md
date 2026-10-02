@@ -31,6 +31,14 @@ congregations), darkened so the text reads.
 ## Batch 2: carousels and captions
 Canva folder: https://www.canva.com/folder/FAHWxkvDs04
 
+| | Carousel | Slides | Canva |
+|---|---|---|---|
+| A | You have 3 seconds (Listen mode) | 7 | https://canva.link/zblqtowaofeq7bo |
+| B | Why the back row can't read your verses | 7 | https://canva.link/re0879z3i26as8b |
+| C | New software this Sunday? 5 things first | 7 | https://canva.link/mgprmw1a9u78afw |
+
+Spare: an alternate dark editorial version of A (slides in reverse order, needs a CTA slide): https://canva.link/onppd9myw6dbk7f
+
 ### A. "You have 3 seconds" (the scramble → Listen)
 > Pastor goes off-script. Verse request. Three seconds. 😅
 > Every media volunteer has lived this. Project Scripture listens to the preacher, so you're not scrambling.
